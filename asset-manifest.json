@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/portfolio/static/js/main.2ee4b281.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2ee4b281.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.449ca62e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.449ca62e.js.map",
+    "static/js/2.a137c037.chunk.js": "/portfolio/static/js/2.a137c037.chunk.js",
+    "static/js/2.a137c037.chunk.js.map": "/portfolio/static/js/2.a137c037.chunk.js.map",
+    "static/js/3.a91329d1.chunk.js": "/portfolio/static/js/3.a91329d1.chunk.js",
+    "static/js/3.a91329d1.chunk.js.map": "/portfolio/static/js/3.a91329d1.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a137c037.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a137c037.chunk.js.LICENSE.txt",
+    "static/media/Bach.fb79f65b.jpg": "/portfolio/static/media/Bach.fb79f65b.jpg",
+    "static/media/GameShop.cd3e6279.PNG": "/portfolio/static/media/GameShop.cd3e6279.PNG",
+    "static/media/GymApp.d5532ba8.jpg": "/portfolio/static/media/GymApp.d5532ba8.jpg",
+    "static/media/Isc.d198cdc5.jpg": "/portfolio/static/media/Isc.d198cdc5.jpg",
+    "static/media/Resume_1.f45ca0b7.jpg": "/portfolio/static/media/Resume_1.f45ca0b7.jpg",
+    "static/media/Resume_2.8d6f9339.jpg": "/portfolio/static/media/Resume_2.8d6f9339.jpg",
+    "static/media/UserMgmt.7e93618a.PNG": "/portfolio/static/media/UserMgmt.7e93618a.PNG",
+    "static/media/cap1.fc5488ab.jpg": "/portfolio/static/media/cap1.fc5488ab.jpg",
+    "static/media/cap2.94b208b6.jpg": "/portfolio/static/media/cap2.94b208b6.jpg",
+    "static/media/cap3.b5dc960a.jpg": "/portfolio/static/media/cap3.b5dc960a.jpg",
+    "static/media/cap4.7f3f59c6.jpg": "/portfolio/static/media/cap4.7f3f59c6.jpg",
+    "static/media/cap5.54fa4830.jpg": "/portfolio/static/media/cap5.54fa4830.jpg",
+    "static/media/cap6.e9c32523.jpg": "/portfolio/static/media/cap6.e9c32523.jpg",
+    "static/media/chatapp.f4d72987.PNG": "/portfolio/static/media/chatapp.f4d72987.PNG",
+    "static/media/cover.448ad30d.jpg": "/portfolio/static/media/cover.448ad30d.jpg",
+    "static/media/masters.6a7ec7f5.PNG": "/portfolio/static/media/masters.6a7ec7f5.PNG",
+    "static/media/masters.8c8133fb.jpg": "/portfolio/static/media/masters.8c8133fb.jpg",
+    "static/media/mypic.414c03fd.jpg": "/portfolio/static/media/mypic.414c03fd.jpg",
+    "static/media/swift.62cd42bf.jpg": "/portfolio/static/media/swift.62cd42bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449ca62e.js",
+    "static/js/2.a137c037.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2ee4b281.chunk.js"
+  ]
+}
